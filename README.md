@@ -1,4 +1,4 @@
-# Ω Olympus Smart Contracts
+# DogeDao Smart Contracts
 
 
 ##  🔧 Setting up Local Development
